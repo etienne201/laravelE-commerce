@@ -1,0 +1,54 @@
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.detail-sec {
+    margin-top: 30px;
+}
+
+.w-image {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.contact {
+    font-weight: bold;
+}
+
+.more {
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+
+.property {
+    /* padding: 10px; */
+    background-color: rgb( 230, 230, 230) !important;
+    padding: 5px 0;
+    border-radius: 3px;
+}
+
+.bg-color {
+    background-color: rgb( 250, 250, 250) !important;
+    padding: 10px;
+}
+
+.icon {
+    font-size: 13px !important;
+}
+
+button.whatsapp {
+    background-color: #28a745 !important;
+    border: 0px solid #28a745 !important;
+    font-weight: normal !important;
+}
+
+button.messanger {
+    font-weight: normal !important;
+}
+
+button.contact {
+    font-weight: normal !important;
+    background-color: rosybrown;
+    border: 0px solid rosybrown !important;
+}
